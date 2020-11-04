@@ -13,3 +13,14 @@ Hora inicio ......: .
 Minuto inicio ....: .
 
 Segundo inicio ...: .
+
+Con ambas informaciones la hora actual y la hora de inicio el usuario debe calcular y
+mostrar por pantalla la diferencia temporal entre ambos datos desglosada en horas
+minutos y segundos y la muestre por pantalla en el formato:
+
+Hora actual ......: hh/mm/ss
+
+Hora inicio ......: hh/mm/ss
+
+Tiempo de clase ..: h/mm/ss
+
